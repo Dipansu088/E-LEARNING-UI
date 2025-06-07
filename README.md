@@ -71,3 +71,5 @@ The site uses the 'Segoe UI' font for a modern and clean appearance.
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e5714b49-90b6-47c3-965f-3f89ebc3fc5d)
+
